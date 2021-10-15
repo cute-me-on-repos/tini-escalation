@@ -1,0 +1,12 @@
+{
+  "name": "tini-escalation",
+  "private": false,
+  "version": "1.0.0",
+  "description": "The very first ascalation of the Tiki Tini-App ",
+  "repository": "git@github.com:cute-me-on-repos/tini-escalation.git",
+  "author": "Lý Lưỡng Thiên <lyluongthien1002@gmail.com>",
+  "license": "GNU AFFERO GENERAL PUBLIC LICENSE",
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  }
+}
